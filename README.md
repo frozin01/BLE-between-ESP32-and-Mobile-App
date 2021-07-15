@@ -1,5 +1,5 @@
 # Introduction
-Internship project to build a bluetooth low energy communication between ESP32 and Mobile App
+Internship project to build a bluetooth low energy communication between ESP32 and Mobile App (Flutter)
 
 ## Getting Started
 
