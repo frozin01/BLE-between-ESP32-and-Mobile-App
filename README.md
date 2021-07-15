@@ -1,6 +1,5 @@
-# blekp
-
-A new Flutter project.
+# Flutter
+Internship project to build a bluetooth low energy communication between ESP32 and Mobile App
 
 ## Getting Started
 
